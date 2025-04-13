@@ -1,12 +1,15 @@
+Bin2Bite
+Bin2Bite is an initiative that helps in reducing food wastage by connecting people with excess food to those in need. By fetching your live location, it provides a list of nearby food donors, allowing you to connect and procure the food. The project also includes a radius filter that helps you filter donors based on your live location, making it easier to access food that would otherwise go to waste.
 
-# Bin2Bite
+Features
+Live Location Access: Fetches and uses your live location to show nearby food donors.
 
-The project fetches your live location, shows the donors of the excess food around you with whom you can connect and procure the food.There is also a radius filter which helps filter the donors according to your live location.
+Radius Filter: Customize the search radius to find donors within a specific distance from your location.
 
+Donor Connections: Connect directly with donors to procure excess food.
 
+Sustainable Food Sharing: Aims to reduce food wastage by promoting food sharing in the community.
 
+Project Glimpse
+Watch the video for a brief overview of the project on Loom: Bin2Bite - Project Overview
 
-## Project Glimpse
-
-Link to the video on Loom:
-https://www.loom.com/share/efbdd1d122d4414a9d605b421236c11e
